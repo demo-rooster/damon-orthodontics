@@ -2,7 +2,7 @@
   "Home": [
     {
       "acf_fc_layout": "hero",
-      "title": "Tyska Alexander Orthodontics",
+      "title": "Damon Orthodontics",
       "text": "",
       "button": {
         "type": "nuxt",
@@ -21,7 +21,7 @@
       "image": {
         "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/211023264_Portrait_Of_Smiling_Male_And_Female_Dentists_At_Cl.jpg",
         "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/211023264_Portrait_Of_Smiling_Male_And_Female_Dentists_At_Cl.webp",
-        "alt": "Smiling patients and orthodontic team at Tyska Alexander Orthodontics",
+        "alt": "Damon Orthodontics team and patients smiling",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -29,9 +29,7 @@
         "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Home Hero"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "src": "",
@@ -42,13 +40,10 @@
     },
     {
       "acf_fc_layout": "block_text_fh",
-      "title": "Welcome to Tyska Alexander Orthodontics",
+      "title": "Welcome to Damon Orthodontics",
       "paragraphs": [
         {
-          "text": "Having a beautiful smile increases your self‑esteem and the confidence with which you move through the world. Dr. Edwin Tyska and Dr. Kristen Alexander excel at creating incredible smiles that are healthy and becoming. Our doctors consult together when designing treatment plans so you benefit from multiple experienced specialists and a customized approach."
-        },
-        {
-          "text": "We have an experienced, compassionate team who will be by your side throughout care. From the first consultation through retention, we focus on clear communication, modern techniques, and a comfortable experience for patients of all ages."
+          "text": "Damon Orthodontics — Spokane’s multi‑generational orthodontic practice — combines more than 50 years of family‑invented innovation with modern, airway‑focused, patient‑first care. We use the latest technology (Damon System, Spark, Invisalign and digital scanning) to deliver faster, more comfortable treatment, predictable results, and flexible payment options for patients of all ages."
         }
       ],
       "component_options": {
@@ -65,11 +60,11 @@
       "title": "Why Choose Us",
       "items": [
         {
-          "title": "Collaborative Care",
-          "icon": "people",
+          "title": "Proven Advantages",
+          "icon": "braces-together",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/99326519_Professional_dentist_office.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/99326519_Professional_dentist_office.webp",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/515451862_Womans_face_before_and_after_correction_of_maloccl.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/515451862_Womans_face_before_and_after_correction_of_maloccl.webp",
             "alt": "",
             "aria_hidden": false,
             "bgColor": "",
@@ -78,11 +73,9 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Experienced"
-            }
+            "image_selection_hints": null
           },
-          "text": "Treatment plans are developed with input from multiple experienced orthodontists, giving each patient the benefit of several specialists’ perspectives.",
+          "text": "Clinically proven protocols and technology that can shorten treatment and improve comfort without sacrificing results.",
           "add_button": false,
           "button": {
             "button_type": "button",
@@ -94,11 +87,11 @@
           }
         },
         {
-          "title": "Customized Plans",
-          "icon": "file-chart-tooth",
+          "title": "Family Legacy",
+          "icon": "king-tooth",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/312940249_Invisible_orthodontics_cosmetic_brackets_on_gradie.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/312940249_Invisible_orthodontics_cosmetic_brackets_on_gradie.webp",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/1305400649_Joyful_Moments_Between_Grandfather_and_Granddaught.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/1305400649_Joyful_Moments_Between_Grandfather_and_Granddaught.webp",
             "alt": "",
             "aria_hidden": false,
             "bgColor": "",
@@ -107,11 +100,9 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Better Care"
-            }
+            "image_selection_hints": null
           },
-          "text": "Every treatment plan is tailored to the patient’s needs, focusing on long‑term health and results that fit your lifestyle.",
+          "text": "You’re treated by the Damon family that developed the Damon System here in Spokane, bringing unmatched experience and stewardship.",
           "add_button": false,
           "button": {
             "button_type": "button",
@@ -123,11 +114,11 @@
           }
         },
         {
-          "title": "Advanced Technology",
-          "icon": "laptop-tooth",
+          "title": "Airway‑Focused Care",
+          "icon": "safety-tooth",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/136172958_Girl_taking_digital_3D_panoramic_dental_x-ray.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/136172958_Girl_taking_digital_3D_panoramic_dental_x-ray.webp",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/1229432042_Woman_in_dental_chair_smiling_and_holding_a_mirror.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/1229432042_Woman_in_dental_chair_smiling_and_holding_a_mirror.webp",
             "alt": "",
             "aria_hidden": false,
             "bgColor": "",
@@ -136,11 +127,9 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Modern Equipment"
-            }
+            "image_selection_hints": null
           },
-          "text": "We use digital scanning and modern tools, and the doctors pursue ongoing education to expand treatment options and improve comfort.",
+          "text": "Personalized treatment plans emphasize facial balance, airway health and long‑term stability for every patient.",
           "add_button": false,
           "button": {
             "button_type": "button",
@@ -152,11 +141,11 @@
           }
         },
         {
-          "title": "Friendly Team",
-          "icon": "thumbs-up-tooth",
+          "title": "Convenient & Affordable",
+          "icon": "schedule-tooth",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/191531294_Medical_dentist_team_in_dental_office_discuss_abou.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/191531294_Medical_dentist_team_in_dental_office_discuss_abou.webp",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/258870461_Happy_girl_and_her_dad_during_a_dental_appointment.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/258870461_Happy_girl_and_her_dad_during_a_dental_appointment.webp",
             "alt": "",
             "aria_hidden": false,
             "bgColor": "",
@@ -165,11 +154,9 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Experienced"
-            }
+            "image_selection_hints": null
           },
-          "text": "Our patient‑focused staff provides compassionate support and clear guidance through every step of treatment.",
+          "text": "Three Spokane locations, interest‑free payment plans and family discounts make treatment accessible for busy families.",
           "add_button": false,
           "button": {
             "button_type": "button",
@@ -191,7 +178,7 @@
         "hash": "",
         "external": false,
         "include_icon": false,
-        "icon": "pencil",
+        "icon": "tooth-two-v1",
         "color": "black"
       },
       "component_options": {
@@ -209,29 +196,27 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Meet Dr. Tyska",
+      "title": "Meet Dr. Clay Damon",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Edwin L. Tyska, DDS, enjoys orthodontics and serving patients in the Buffalo area. He emphasizes treating every patient as he would his own family and stays current through continuing education to deliver thoughtful, effective care."
+          "text": "Dr. Clay Damon, board‑certified orthodontist. Doctor of Dental Surgery (DDS), University of Washington; M.S. in Orthodontics, Case Western Reserve University. He focuses on the Damon System and airway‑focused orthodontics while leading a multi‑generational family practice in Spokane."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://www.taortho.com/assets/uploads/images/meet-dr-edwin-tyska.jpg",
-        "webp": "https://www.taortho.com/assets/uploads/images/meet-dr-edwin-tyska.jpg",
-        "alt": "Dr. Edwin Tyska, orthodontist at Tyska Alexander Orthodontics",
+        "src": "https://damon-orthodontics.com/wp-content/uploads/2025/08/Damon.ck-9995-scaled.jpg",
+        "webp": "https://damon-orthodontics.com/wp-content/uploads/2025/08/Damon.ck-9995-scaled.jpg",
+        "alt": "Dr. Clay Damon, board-certified orthodontist at Damon Orthodontics",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "",
+        "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Experienced"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "type": "embedded",
@@ -242,14 +227,14 @@
           "button": {
             "type": "nuxt",
             "style": "secondary",
-            "label": "Meet Dr. Tyska",
-            "aria_label": "Learn about Dr. Tyska",
+            "label": "Meet Our Doctors",
+            "aria_label": "Learn about our orthodontists",
             "href": "",
             "path": "/about",
-            "hash": "#meet-dr-tyska",
+            "hash": "#meet-the-doctor",
             "external": false,
             "include_icon": false,
-            "icon": "pencil",
+            "icon": "tooth-two-v2",
             "color": "black"
           }
         }
@@ -277,29 +262,27 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Meet Dr. Alexander",
+      "title": "Meet Dr. Paul Damon",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Kristen M. Alexander, DDS, is a Buffalo native who brings a commitment to continuing education and the latest treatment options. She focuses on clear communication and delivering strong, lasting results for patients of all ages."
+          "text": "Dr. Paul Damon, second‑generation orthodontist and partner at Damon Orthodontics, continues the Damon family legacy with a focus on patient safety and expanding access to advanced care across Spokane."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://www.taortho.com/assets/uploads/images/meet-dr-kristen-alexander.jpg",
-        "webp": "https://www.taortho.com/assets/uploads/images/meet-dr-kristen-alexander.jpg",
-        "alt": "Dr. Kristen Alexander, orthodontist at Tyska Alexander Orthodontics",
+        "src": "https://damon-orthodontics.com/wp-content/uploads/2025/08/Damon.ck-0217-scaled.jpg",
+        "webp": "https://damon-orthodontics.com/wp-content/uploads/2025/08/Damon.ck-0217-scaled.jpg",
+        "alt": "Dr. Paul Damon, orthodontist at Damon Orthodontics",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "",
+        "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Experienced"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "type": "embedded",
@@ -310,14 +293,14 @@
           "button": {
             "type": "nuxt",
             "style": "secondary",
-            "label": "Meet Dr. Alexander",
-            "aria_label": "Learn about Dr. Alexander",
+            "label": "Meet Our Doctors",
+            "aria_label": "Learn about our orthodontists",
             "href": "",
             "path": "/about",
-            "hash": "#meet-dr-tyska",
+            "hash": "#meet-the-doctor",
             "external": false,
             "include_icon": false,
-            "icon": "pencil",
+            "icon": "tooth-two-v1",
             "color": "black"
           }
         }
@@ -348,7 +331,7 @@
       "title": "Explore Our Treatments",
       "paragraphs": [
         {
-          "text": "We offer a full range of orthodontic services, from discreet clear aligners to fixed braces and retainers, plus digital scanning for a comfortable, accurate fit."
+          "text": "Damon Braces, clear aligner options like Spark and Invisalign, and ceramic Damon Clear braces — tailored choices to fit every patient’s needs."
         }
       ],
       "button": {
@@ -361,7 +344,7 @@
         "hash": "",
         "external": false,
         "include_icon": false,
-        "icon": "pencil",
+        "icon": "tooth-two-v2",
         "color": "black"
       },
       "links": true,
@@ -369,83 +352,75 @@
       "items": [
         {
           "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646541_Healthy_smile_woman_with_clear_brackets.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646541_Healthy_smile_woman_with_clear_brackets.webp",
+            "alt": "Patient with Damon braces showing smile improvement",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "center",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          },
+          "title": "Damon Braces",
+          "path": "/treatments",
+          "hash": "#damon-braces"
+        },
+        {
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/196907428.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/196907428.webp",
+            "alt": "Damon Clear ceramic braces, discreet orthodontic option",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "center",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          },
+          "title": "Damon Clear Braces",
+          "path": "/treatments",
+          "hash": "#damon-clear-braces"
+        },
+        {
+          "image": {
             "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/127410354_Invisible_aligners_plastic_braces_dentistry.jpg",
             "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/127410354_Invisible_aligners_plastic_braces_dentistry.webp",
-            "alt": "Patient holding Invisalign aligners",
+            "alt": "Spark clear aligners for discreet tooth movement",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
             "addLoader": false,
-            "objectPosition": "",
+            "objectPosition": "center",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Treatments Hero"
-            }
+            "image_selection_hints": null
           },
-          "title": "Invisalign<sup>®</sup>",
+          "title": "Spark Clear Aligners",
+          "path": "/treatments",
+          "hash": "#spark-clear-aligners"
+        },
+        {
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/192367510_Invisible_dental_orthodontics.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/192367510_Invisible_dental_orthodontics.webp",
+            "alt": "Invisalign clear aligners worn by patient",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "center",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          },
+          "title": "Invisalign / Clear Aligners",
           "path": "/treatments",
           "hash": "#invisalign"
-        },
-        {
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/25182244_Pretty_girl_wearing_braces_smiling_cheerfully.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/25182244_Pretty_girl_wearing_braces_smiling_cheerfully.webp",
-            "alt": "Patient smiling with ceramic braces",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Treatments Hero"
-            }
-          },
-          "title": "Clear & Metal Braces",
-          "path": "/treatments",
-          "hash": "#braces"
-        },
-        {
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/56159139_hands_holding_retainer_for_teeth_and_tooth_tray.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/56159139_hands_holding_retainer_for_teeth_and_tooth_tray.webp",
-            "alt": "Various orthodontic retainers displayed",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Treatments Hero"
-            }
-          },
-          "title": "Retainers",
-          "path": "/treatments",
-          "hash": "#retainers"
-        },
-        {
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/271991695_Young_woman_ready_to_computer_3d_tomography_of_tee.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/271991695_Young_woman_ready_to_computer_3d_tomography_of_tee.webp",
-            "alt": "Digital scanning equipment used for orthodontic impressions",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Modern Equipment"
-            }
-          },
-          "title": "Digital Scanning",
-          "path": "/treatments",
-          "hash": "#advanced-technology"
         }
       ],
       "component_options": {
@@ -458,18 +433,49 @@
       "reverse_row": false
     },
     {
+      "acf_fc_layout": "multi_item_testimonial",
+      "title": "What Our Patients Are Saying",
+      "review_text": "Read More Reviews",
+      "links": [
+        {
+          "href": "https://www.google.com/maps/place/Damon+Orthodontics",
+          "icon": "facebook",
+          "color": "primary"
+        }
+      ],
+      "testimonials": [
+        {
+          "author": "Dominic Whitney",
+          "testimonial": "“They have been nice and been really Gentle.”"
+        },
+        {
+          "author": "Carrie Six",
+          "testimonial": "“We have had such a positive experience with Damon Orthodontics. The staff are friendly and professional, and my daughter’s teeth look so beautiful!”"
+        },
+        {
+          "author": "Robert Schmitter",
+          "testimonial": "“(Review shown in homepage Google feed.)”"
+        }
+      ],
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "has_background": true,
+      "background": "bg2",
+      "linear_gradient": ""
+    },
+    {
       "acf_fc_layout": "multi_use_banner",
       "title": "Follow Us on Social Media",
       "content_block": "social_block",
       "text": "",
       "social_links": [
         {
-          "href": "https://search.google.com/local/reviews?placeid=ChIJZ1_LMkCe04kRl1Rvwwr8foM",
+          "href": "https://www.google.com/maps/place/Damon+Orthodontics",
           "icon": "facebook"
-        },
-        {
-          "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
-          "icon": "youtube"
         }
       ],
       "email": "",
@@ -497,19 +503,17 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/391155843_Group_of_young_people_using_and_looking_at_mobile.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/391155843_Group_of_young_people_using_and_looking_at_mobile.webp",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/135047751_Banner_of_young_couple_looking_to_each_other_and_u.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/135047751_Banner_of_young_couple_looking_to_each_other_and_u.webp",
         "alt": "Parents with kids relaxing in front of home",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "",
+        "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Community"
-        }
+        "image_selection_hints": null
       },
       "reversed": false,
       "centered": false,
@@ -547,19 +551,17 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/48850703_Teenage_girl_happy_to_visit_the_dentist.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/48850703_Teenage_girl_happy_to_visit_the_dentist.webp",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/573131138_Woman_wave_or_video_call_on_laptop_conference_lawy.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/573131138_Woman_wave_or_video_call_on_laptop_conference_lawy.webp",
         "alt": "Enjoying time together",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "",
+        "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "New Patients Hero"
-        }
+        "image_selection_hints": null
       },
       "reversed": false,
       "centered": true,
@@ -568,15 +570,15 @@
     },
     {
       "seo": {
-        "page_title": "Home - Tyska Alexander Orthodontics",
-        "page_description": "Tyska Alexander Orthodontics provides personalized orthodontic care in Clarence and Tonawanda, NY, offering Invisalign®, braces, retainers, and digital scanning",
-        "page_keywords": "orthodontics, Invisalign, braces, retainers, digital scanning, Tyska Alexander, Clarence, Tonawanda",
+        "page_title": "Home - Damon Orthodontics",
+        "page_description": "Damon Orthodontics provides Damon braces, Spark and Invisalign clear aligners, and airway‑focused orthodontics across three Spokane locations.",
+        "page_keywords": "orthodontics, Damon System, Damon braces, Invisalign, Spark, Spokane",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "Home - Tyska Alexander Orthodontics",
-            "description": "Personalized orthodontic care in Clarence and Tonawanda, NY — Invisalign®, braces, retainers, and modern digital scanning.",
-            "image": "https://www.taortho.com/assets/images/slideshow/slide1.jpg"
+            "title": "Home - Damon Orthodontics",
+            "description": "Damon Orthodontics provides Damon braces, Spark and Invisalign clear aligners, and airway‑focused orthodontics across three Spokane locations.",
+            "image": "https://damon-orthodontics.com/wp-content/uploads/2025/08/doctors-damonortho-topaz-enhance-faceai-scaled.png"
           }
         }
       }
@@ -602,9 +604,9 @@
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/239725802_group_of_professional_doctors.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/239725802_group_of_professional_doctors.webp",
-        "alt": "Team of orthodontic professionals smiling in the office lobby",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/191531294_Medical_dentist_team_in_dental_office_discuss_abou.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/191531294_Medical_dentist_team_in_dental_office_discuss_abou.webp",
+        "alt": "Damon Orthodontics team and modern office entry with warm, welcoming reception area",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -626,10 +628,16 @@
       "title": "Our Mission",
       "paragraphs": [
         {
-          "text": "We recognize that all of our patients are unique and deserve to receive orthodontic care that reflects their individual needs. Our experienced and talented team is committed to working with you and your family to create a comfortable, stress‑free, and rewarding orthodontic experience every time you visit our practice. We are pleased to welcome you and your family, and we look forward to working with you."
+          "text": "Damon Orthodontics combines a multi-generational legacy with modern, patient-centered care, offering shorter treatment times, airway-focused planning, and face-driven, personalized treatment plans that prioritize comfort and long-term stability."
         },
         {
-          "text": "Having a beautiful smile increases your self‑esteem and the confidence with which you move through the world. Our doctors consult together when they design a treatment plan for each patient, so you benefit from multiple specialists collaborating on one customized plan tailored to your needs. With individualized attention to detail, our goal is to make your mouth healthy and your smile beautiful."
+          "text": "We emphasize advanced technology such as the Damon System, Damon Clear, Spark aligners, and iTero scanning to plan treatment precisely and monitor progress with minimal discomfort."
+        },
+        {
+          "text": "Our team provides flexible payment options and scheduling so orthodontics is accessible to families across Spokane, and we work to make each step straightforward and convenient."
+        },
+        {
+          "text": "Above all, we focus on gentle techniques and efficient treatment that support lasting results and give patients the confidence to enjoy their smiles for years to come."
         }
       ],
       "component_options": {
@@ -647,12 +655,12 @@
     },
     {
       "acf_fc_layout": "tabs",
-      "title": "Meet Dr. Tyska",
+      "title": "Meet Dr. Clay Damon",
       "paragraphs": [],
       "image": {
-        "src": "https://www.taortho.com/assets/uploads/images/meet-dr-edwin-tyska.jpg",
+        "src": "https://damon-orthodontics.com/wp-content/uploads/2025/08/Damon.ck-9995-scaled.jpg",
         "webp": "",
-        "alt": "Dr. Edwin L. Tyska",
+        "alt": "Dr. Clay Damon headshot, smiling",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -669,13 +677,13 @@
           "header": "Professional",
           "paragraphs": [
             {
-              "text": "Following his postgraduate studies, Dr. Edwin L. Tyska began his career in private practice and later became a partner. He brings long‑standing clinical experience and a collaborative approach to each treatment plan."
+              "text": "Dr. Clay Damon is a third-generation Spokane resident and a board-certified orthodontist practicing at Damon Orthodontics. He continues the family legacy of orthodontic care in Spokane and is committed to delivering attentive, patient-focused treatment."
             }
           ],
           "image": {
-            "src": "https://www.taortho.com/assets/uploads/images/meet-dr-edwin-tyska.jpg",
+            "src": "https://damon-orthodontics.com/wp-content/uploads/2025/08/Damon.ck-9995-scaled.jpg",
             "webp": "",
-            "alt": "Dr. Edwin L. Tyska in clinic",
+            "alt": "Dr. Clay Damon smiling in clinical setting",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -687,16 +695,16 @@
           }
         },
         {
-          "header": "Continuing Education",
+          "header": "Education & Credentials",
           "paragraphs": [
             {
-              "text": "Dr. Tyska and the doctors in the practice regularly participate in continuing education programs to stay current with treatment methods, materials, and the latest technology."
+              "text": "Doctor of Dental Surgery (DDS), University of Washington, and Master of Science in Orthodontics, Case Western Reserve University. Dr. Damon is a board-certified orthodontist and his professional profile is available through external credential directories."
             }
           ],
           "image": {
-            "src": "https://www.taortho.com/assets/uploads/images/meet-dr-edwin-tyska.jpg",
+            "src": "https://damon-orthodontics.com/wp-content/uploads/2025/08/Damon.ck-9995-scaled.jpg",
             "webp": "",
-            "alt": "Dr. Tyska at a continuing education event",
+            "alt": "Dr. Clay Damon headshot",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -708,16 +716,16 @@
           }
         },
         {
-          "header": "Outside the Office",
+          "header": "Clinical Focus",
           "paragraphs": [
             {
-              "text": "A resident of East Amherst, Dr. Tyska is active with family life, coaches the Lou Gehrig Lasers travel girls’ softball league, enjoys golf, travel, and supporting the Buffalo Sabres."
+              "text": "Dr. Damon specializes in the Damon System and airway-focused, face-driven orthodontic planning. His approach emphasizes broad, full smiles, minimally invasive mechanics, and efficient tooth movement to reduce treatment time while prioritizing patient comfort."
             }
           ],
           "image": {
-            "src": "https://www.taortho.com/assets/uploads/images/meet-dr-edwin-tyska.jpg",
+            "src": "https://damon-orthodontics.com/wp-content/uploads/2025/08/Damon.ck-9995-scaled.jpg",
             "webp": "",
-            "alt": "Dr. Tyska supporting local youth sports",
+            "alt": "Dr. Clay Damon consulting with a patient",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -730,7 +738,7 @@
         }
       ],
       "component_options": {
-        "hash": "meet-dr-tyska",
+        "hash": "meet-the-doctor-clay",
         "component_padding": "full",
         "component_margins": "half",
         "hide_component": false
@@ -748,12 +756,12 @@
     },
     {
       "acf_fc_layout": "tabs",
-      "title": "Meet Dr. Alexander",
+      "title": "Meet Dr. Paul Damon",
       "paragraphs": [],
       "image": {
-        "src": "https://www.taortho.com/assets/uploads/images/meet-dr-kristen-alexander.jpg",
+        "src": "https://damon-orthodontics.com/wp-content/uploads/2025/08/Damon.ck-0217-scaled.jpg",
         "webp": "",
-        "alt": "Dr. Kristen M. Alexander",
+        "alt": "Dr. Paul Damon headshot, smiling",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -770,13 +778,13 @@
           "header": "Professional",
           "paragraphs": [
             {
-              "text": "Dr. Kristen M. Alexander maintains an active clinical practice and brings a patient‑centered approach to treatment, focusing on clear communication and individualized care."
+              "text": "Dr. Paul Damon is a partner at Damon Orthodontics and a member of the family tradition behind the Damon System. He brings a focus on safety, hygiene, and modern orthodontic techniques to the practice."
             }
           ],
           "image": {
-            "src": "https://www.taortho.com/assets/uploads/images/meet-dr-kristen-alexander.jpg",
+            "src": "https://damon-orthodontics.com/wp-content/uploads/2025/08/Damon.ck-0217-scaled.jpg",
             "webp": "",
-            "alt": "Dr. Kristen M. Alexander in clinic",
+            "alt": "Dr. Paul Damon in clinical setting",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -788,16 +796,16 @@
           }
         },
         {
-          "header": "Affiliations & Education",
+          "header": "Education & Credentials",
           "paragraphs": [
             {
-              "text": "Dr. Alexander regularly participates in continuing education and maintains professional affiliations with local and national dental and orthodontic organizations to ensure patients benefit from current best practices."
+              "text": "Dr. Paul Damon is identified on practice materials as a practicing orthodontist with professional profiles available for credential verification. The practice highlights his role in continuing the Damon family’s innovation in orthodontics."
             }
           ],
           "image": {
-            "src": "https://www.taortho.com/assets/uploads/images/meet-dr-kristen-alexander.jpg",
+            "src": "https://damon-orthodontics.com/wp-content/uploads/2025/08/Damon.ck-0217-scaled.jpg",
             "webp": "",
-            "alt": "Professional affiliations",
+            "alt": "Dr. Paul Damon headshot",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -809,16 +817,16 @@
           }
         },
         {
-          "header": "Personal",
+          "header": "Clinical Focus",
           "paragraphs": [
             {
-              "text": "A Buffalo native, Dr. Alexander lives locally with her husband and children. She enjoys outdoor activities, travel, and cheering for local sports teams."
+              "text": "Dr. Paul focuses on advanced orthodontic treatments using the Damon System and clear aligner options such as Spark and Invisalign. He emphasizes predictable, safe care and modern clinical protocols to deliver comfortable results."
             }
           ],
           "image": {
-            "src": "https://www.taortho.com/assets/uploads/images/meet-dr-kristen-alexander.jpg",
+            "src": "https://damon-orthodontics.com/wp-content/uploads/2025/08/Damon.ck-0217-scaled.jpg",
             "webp": "",
-            "alt": "Dr. Alexander with family",
+            "alt": "Dr. Paul Damon working with a patient",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -831,7 +839,7 @@
         }
       ],
       "component_options": {
-        "hash": "meet-dr-alexander",
+        "hash": "meet-the-doctor-paul",
         "component_padding": "full",
         "component_margins": "half",
         "hide_component": false
@@ -852,13 +860,13 @@
       "title": "Meet the Team",
       "items": [
         {
-          "name": "Jeanette",
-          "position": "Practice Administrator & Financial Coordinator",
-          "bio": "Practice Administrator and financial coordinator supporting patient care and billing.",
+          "name": "Dr. Clay Damon",
+          "position": "Orthodontist",
+          "bio": "Third-generation orthodontist focused on personalized, airway-aware treatment planning and Damon System techniques.",
           "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/Jeanette.jpg",
+            "src": "https://damon-orthodontics.com/wp-content/uploads/2025/08/Damon.ck-9995-scaled.jpg",
             "webp": "",
-            "alt": "Jeanette, Practice Administrator",
+            "alt": "Dr. Clay Damon headshot",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -870,13 +878,13 @@
           }
         },
         {
-          "name": "Stephanie",
-          "position": "Front Desk Coordinator",
-          "bio": "Front desk coordinator who greets patients and manages scheduling.",
+          "name": "Dr. Paul Damon",
+          "position": "Orthodontist",
+          "bio": "Partner at Damon Orthodontics who continues the Damon family legacy of innovation in modern orthodontic care.",
           "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-119.jpg",
+            "src": "https://damon-orthodontics.com/wp-content/uploads/2025/08/Damon.ck-0217-scaled.jpg",
             "webp": "",
-            "alt": "Stephanie, Front Desk Coordinator",
+            "alt": "Dr. Paul Damon headshot",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -888,193 +896,13 @@
           }
         },
         {
-          "name": "Kathie",
-          "position": "Front Desk Coordinator",
-          "bio": "Front desk coordinator assisting patients and phone inquiries.",
+          "name": "Clinical Team",
+          "position": "Clinical & Front Office Team",
+          "bio": "A certified, friendly clinical and front-office team dedicated to patient comfort, efficient visits, and clear communication.",
           "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/Kathie.jpg",
+            "src": "https://damon-orthodontics.com/wp-content/uploads/2025/08/doctors-damonortho-topaz-enhance-faceai-scaled.png",
             "webp": "",
-            "alt": "Kathie, Front Desk Coordinator",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Kristen",
-          "position": "Treatment Coordinator",
-          "bio": "Treatment coordinator who helps patients understand options and financial arrangements.",
-          "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-099.jpg",
-            "webp": "",
-            "alt": "Kristen, Treatment Coordinator",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Heather",
-          "position": "Clinical Coordinator & Dental Assistant",
-          "bio": "Clinical coordinator and dental assistant supporting patient care.",
-          "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/Heather.jpg",
-            "webp": "",
-            "alt": "Heather, Clinical Coordinator",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Torrie",
-          "position": "Dental Hygienist / Assistant",
-          "bio": "Dental hygienist and assistant providing clinical support.",
-          "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/Torrie.jpg",
-            "webp": "",
-            "alt": "Torrie, Dental Hygienist",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Alissa",
-          "position": "Dental Assistant",
-          "bio": "Dental assistant who works chairside to support treatments.",
-          "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-088.jpg",
-            "webp": "",
-            "alt": "Alissa, Dental Assistant",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Rachel",
-          "position": "Financial Coordinator & Assistant Practice Administrator",
-          "bio": "Financial coordinator assisting with insurance and billing in Tonawanda.",
-          "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-38.jpg",
-            "webp": "",
-            "alt": "Rachel, Financial Coordinator",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Tammy",
-          "position": "Treatment Coordinator",
-          "bio": "Treatment coordinator supporting patient care at Tonawanda.",
-          "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-44.jpg",
-            "webp": "",
-            "alt": "Tammy, Treatment Coordinator",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Courtney",
-          "position": "Front Desk Coordinator",
-          "bio": "Front desk coordinator welcoming patients at Tonawanda.",
-          "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-18.jpg",
-            "webp": "",
-            "alt": "Courtney, Front Desk Coordinator",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Rose",
-          "position": "Clinical Coordinator & Dental Assistant",
-          "bio": "Clinical coordinator providing chairside assistance and patient support.",
-          "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/Rose%20V.jpg",
-            "webp": "",
-            "alt": "Rose, Clinical Coordinator",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Kim",
-          "position": "Dental Assistant",
-          "bio": "Dental assistant supporting clinical procedures.",
-          "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/Kim.jpg",
-            "webp": "",
-            "alt": "Kim, Dental Assistant",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Paige",
-          "position": "Dental Assistant",
-          "bio": "Dental assistant who assists with patient care and treatment setup.",
-          "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-10.jpg",
-            "webp": "",
-            "alt": "Paige, Dental Assistant",
+            "alt": "Damon Orthodontics clinical team group photo",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -1095,20 +923,20 @@
       "has_bio": true,
       "large_title": false,
       "center_title": false,
-      "background": "bg1",
+      "background": "bg2",
       "add_texture": false,
       "linear_gradient": "",
       "preserve_image": true
     },
     {
       "acf_fc_layout": "single_image_slider",
-      "title": "Office Tour",
+      "title": "Our Office",
       "carousel_aria": "Office Tour Carousel",
       "slides": [
         {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-180(1).jpg",
+          "src": "https://damon-orthodontics.com/wp-content/uploads/2025/08/slide4-scaled.png",
           "webp": "",
-          "alt": "Clarence office - waiting area",
+          "alt": "Waiting area at Damon Orthodontics with comfortable seating and warm lighting",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -1118,9 +946,9 @@
           "loading_mask": "#eef6f8"
         },
         {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-183(1).jpg",
+          "src": "https://damon-orthodontics.com/wp-content/uploads/2025/08/slider4-topaz-enhance-faceai-scaled.png",
           "webp": "",
-          "alt": "Clarence office - treatment room",
+          "alt": "Reception and patient check-in desk at Damon Orthodontics",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -1130,9 +958,9 @@
           "loading_mask": "#eef6f8"
         },
         {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-186(1).jpg",
+          "src": "https://damon-orthodontics.com/wp-content/uploads/2025/08/Damon.ck-0083-scaled.jpg",
           "webp": "",
-          "alt": "Clarence office - operatory",
+          "alt": "Clinical operatory showing treatment chair and modern orthodontic equipment",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -1142,117 +970,9 @@
           "loading_mask": "#eef6f8"
         },
         {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-177(1).jpg",
+          "src": "https://damon-orthodontics.com/wp-content/uploads/2025/11/quang-tri-nguyen-LMuRU240h28-unsplash-683x1024.jpg",
           "webp": "",
-          "alt": "Clarence office - reception",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-167(1).jpg",
-          "webp": "",
-          "alt": "Clarence office - patient area",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-174(1).jpg",
-          "webp": "",
-          "alt": "Clarence office - equipment and sterilization area",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-370(1).jpg",
-          "webp": "",
-          "alt": "Tonawanda office - waiting area",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-374.jpg",
-          "webp": "",
-          "alt": "Tonawanda office - operatory",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-377(1).jpg",
-          "webp": "",
-          "alt": "Tonawanda office - treatment room",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-093(1).jpg",
-          "webp": "",
-          "alt": "Tonawanda office - staff area",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-090.jpg",
-          "webp": "",
-          "alt": "Tonawanda office - clinical space",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-115.jpg",
-          "webp": "",
-          "alt": "Tonawanda office - waiting and play area",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-085(1).jpg",
-          "webp": "",
-          "alt": "Tonawanda office - reception and staff",
+          "alt": "Close-up of clinical tools and equipment used for orthodontic treatment",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -1281,19 +1001,14 @@
         {
           "has_heading": false,
           "heading": "",
-          "text": "Dr. Edwin Tyska is active in the local community as an assistant coach for the Lou Gehrig Lasers travel girls’ softball league and supports youth sports through local involvement."
-        },
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Dr. Kristen Alexander participates in local activities and professional organizations; both doctors support community health through patient education and outreach."
+          "text": "Damon Orthodontics is rooted in the Spokane community and gives back through sponsorships and partnerships. The practice is a high‑rank sponsor of the Greater Spokane League and partners with the Smile For A Lifetime Foundation to help provide treatment for children in need."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/265652617_People_Donating_Food_To_Charity_Food_Bank_Collecti.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/265652617_People_Donating_Food_To_Charity_Food_Bank_Collecti.webp",
-        "alt": "Graphic representing community support and local involvement",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/580054413_holding_hands_for_strong_teamwork_and_volunteer_to.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/580054413_holding_hands_for_strong_teamwork_and_volunteer_to.webp",
+        "alt": "Graphic representing community support by local orthodontic practice",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1359,19 +1074,17 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/158720629_Dentist_female_posing_at_consultation.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/158720629_Dentist_female_posing_at_consultation.webp",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/202645547_Portrait_of_dentist_standing_with_arms_crossed.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/202645547_Portrait_of_dentist_standing_with_arms_crossed.webp",
         "alt": "Enjoying time together",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "",
+        "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "New Patients Hero"
-        }
+        "image_selection_hints": null
       },
       "reversed": false,
       "centered": true,
@@ -1380,15 +1093,15 @@
     },
     {
       "seo": {
-        "page_title": "About Us | Tyska & Alexander Orthodontics",
-        "page_description": "Learn about Dr. Edwin Tyska and Dr. Kristen Alexander, our team, and how we serve Clarence and Tonawanda with patient-focused orthodontic care.",
-        "page_keywords": "Orthodontics, Braces, Invisalign, Dr. Tyska, Dr. Alexander, TaOrtho",
+        "page_title": "About Us | Damon Orthodontics",
+        "page_description": "Learn about Damon Orthodontics' multi-generational practice in Spokane, our technology, doctors, community partnerships, and how to schedule a free consult.",
+        "page_keywords": "Damon Orthodontics, Spokane orthodontist, Damon System, Spark aligners, iTero, orthodontics Spokane",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "About Us | Tyska & Alexander Orthodontics",
-            "description": "Meet our doctors and team serving Clarence and Tonawanda with modern, compassionate orthodontic care.",
-            "image": "https://www.taortho.com/assets/images/slideshow/slide1.jpg"
+            "title": "About Us | Damon Orthodontics",
+            "description": "Learn about Damon Orthodontics' multi-generational practice in Spokane, our technology, doctors, community partnerships, and how to schedule a free consult.",
+            "image": "https://damon-orthodontics.com/wp-content/uploads/2025/12/damonhomepageimage-topaz-denoise-enhance-faceai.png"
           }
         }
       }
@@ -1414,9 +1127,9 @@
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/145673624_Happy_family_with_kids.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/145673624_Happy_family_with_kids.webp",
-        "alt": "Smiling family welcomed at Tyska Alexander Orthodontics front desk",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/35514118_Smiling_family.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/35514118_Smiling_family.webp",
+        "alt": "Smiling family welcomed at Lakeshore Orthodontics front desk",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1424,9 +1137,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "New Patients Hero"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "src": "",
@@ -1437,23 +1148,23 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "First Visit Expectations",
+      "title": "What to expect at your first visit",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Your initial consultation is where we learn about your concerns and evaluate your smile. You’ll meet our team and the doctor, we’ll review your dental and medical history, and perform a thorough oral exam to determine whether orthodontic treatment is recommended and which options may be right for you."
+          "text": "Your first visit begins with a complimentary consultation where the doctor examines your teeth, takes digital images and scans, and discusses your smile goals and treatment options. Expect a focused exam with digital photos/scans (such as iTero), an overview of choices including Damon Braces, Damon Clear, and clear aligners like Invisalign<sup>®</sup>, and a personalized treatment plan created for your needs."
         },
         {
           "has_heading": false,
           "heading": "",
-          "text": "We’ll help you build a customized treatment plan and walk through financial options, insurance details, and payment plans. Please bring completed patient forms or plan to fill them out electronically, a photo ID, any insurance cards, and a list of current medications."
+          "text": "We review medical and dental history, answer questions about risks and benefits, and discuss insurance and payment options. Bring your insurance card and any recent dental X‑rays if available; the team can verify coverage and recommend steps such as improving oral hygiene or a dental cleaning before treatment if needed."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/211787210_young_woman_dentist_performs_examination_of_patien.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/211787210_young_woman_dentist_performs_examination_of_patien.webp",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/84442233_Father_With_Daughter_At_Reception_Of_Dentists_Surg.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/84442233_Father_With_Daughter_At_Reception_Of_Dentists_Surg.webp",
         "alt": "Father with daughter at reception of dentist's surgery",
         "aria_hidden": false,
         "bgColor": "",
@@ -1462,12 +1173,10 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Initial Visit"
-        }
+        "image_selection_hints": null
       },
       "video": {
-        "type": "embedded",
+        "type": "file",
         "src": ""
       },
       "buttons": [],
@@ -1484,7 +1193,7 @@
       "use_video": false,
       "large_image": false,
       "has_background": false,
-      "background": "bg2",
+      "background": "bg1",
       "linear_gradient": "",
       "add_texture": false,
       "large_title": true,
@@ -1493,13 +1202,13 @@
     },
     {
       "acf_fc_layout": "block_text_simple",
-      "title": "Payment & Financial Info",
+      "title": "Payment & Insurance",
       "paragraphs": [
         {
-          "text": "We accept most major credit cards and can assist with insurance claims when orthodontic benefits apply, helping to reduce paperwork for you."
+          "text": "We offer interest-free payment plans and flexible monthly options to help make treatment manageable. Family discounts are available when multiple family members receive care."
         },
         {
-          "text": "Flexible financing and in-house payment plans are available to fit different budgets. Complimentary consultations are offered so you can meet our team, have photos taken, and review your treatment plan."
+          "text": "The practice works with most insurance carriers and can help verify benefits and file claims to reduce out-of-pocket costs. Complimentary, no‑obligation consultations are available — schedule a free consult to begin."
         }
       ],
       "component_options": {
@@ -1514,103 +1223,6 @@
       "add_texture": false,
       "background": "bg2",
       "linear_gradient": ""
-    },
-    {
-      "acf_fc_layout": "image_text",
-      "title": "New Patient Forms",
-      "paragraphs": [
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Complete forms online through our patient portal, or download and print the appropriate health history PDFs before your visit. If you have trouble opening PDFs, Adobe Reader is available for free."
-        }
-      ],
-      "accordion": [],
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/306422676_Female_visitor_filling_out_medicine_documents.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/306422676_Female_visitor_filling_out_medicine_documents.webp",
-        "alt": "Patient filling out orthodontic health history forms online",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Initial Visit"
-        }
-      },
-      "video": {
-        "type": "embedded",
-        "src": ""
-      },
-      "buttons": [
-        {
-          "button": {
-            "type": "anchor",
-            "style": "secondary",
-            "label": "Online Patient Portal",
-            "aria_label": "online patient portal",
-            "href": "https://patient.sesamecommunications.com/mandtortho/index.html",
-            "path": "",
-            "hash": "",
-            "external": true,
-            "include_icon": false,
-            "icon": "envelope",
-            "color": "black"
-          }
-        },
-        {
-          "button": {
-            "type": "anchor",
-            "style": "secondary",
-            "label": "Patient Form (Child) PDF",
-            "aria_label": "patient form child pdf",
-            "href": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/files/health%20history(2).pdf",
-            "path": "",
-            "hash": "",
-            "external": true,
-            "include_icon": false,
-            "icon": "pencil",
-            "color": "black"
-          }
-        },
-        {
-          "button": {
-            "type": "anchor",
-            "style": "secondary",
-            "label": "Patient Form (Adult) PDF",
-            "aria_label": "patient form adult pdf",
-            "href": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/files/health%20history(3).pdf",
-            "path": "",
-            "hash": "",
-            "external": true,
-            "include_icon": false,
-            "icon": "pencil",
-            "color": "black"
-          }
-        }
-      ],
-      "component_options": {
-        "hash": "",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "reverse": true,
-      "has_buttons": true,
-      "has_accordion": false,
-      "is_dynamic": false,
-      "use_video": false,
-      "large_image": false,
-      "has_background": false,
-      "background": "bg2",
-      "linear_gradient": "",
-      "add_texture": false,
-      "large_title": false,
-      "title_color": "text",
-      "title_underline_color": "none"
     },
     {
       "acf_fc_layout": "multi_use_banner",
@@ -1643,19 +1255,17 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/84442233_Father_With_Daughter_At_Reception_Of_Dentists_Surg.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/84442233_Father_With_Daughter_At_Reception_Of_Dentists_Surg.webp",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/256192470_Close_up_photo_wondered_she_her_he_him_his_lady_gu.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/256192470_Close_up_photo_wondered_she_her_he_him_his_lady_gu.webp",
         "alt": "Enjoying time together",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "",
+        "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "New Patients Hero"
-        }
+        "image_selection_hints": null
       },
       "reversed": false,
       "centered": true,
@@ -1664,14 +1274,14 @@
     },
     {
       "seo": {
-        "page_title": "Get Started | TA Orthodontics",
-        "page_description": "Start your orthodontic journey: learn what to expect at your first visit, access patient forms, review payment options, and book a free consultation.",
-        "page_keywords": "orthodontics, new patient, patient forms, financing, consultation, TA Orthodontics",
+        "page_title": "Get Started | Damon Orthodontics",
+        "page_description": "Schedule a complimentary consultation at Damon Orthodontics. Learn what to expect at your first visit, payment options, and how to book online or by phone.",
+        "page_keywords": "Damon Orthodontics, free consultation, new patient, orthodontics, payment options",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "Get Started | TA Orthodontics",
-            "description": "Start your orthodontic journey: learn what to expect at your first visit, access patient forms, review payment options, and book a free consultation.",
+            "title": "Get Started | Damon Orthodontics",
+            "description": "Schedule a complimentary consultation at Damon Orthodontics. Learn what to expect at your first visit, payment options, and how to book online or by phone.",
             "image": "https://d2jdm9a19iwpm4.cloudfront.net/get-started/get-started-hero-v2.jpg"
           }
         }
@@ -1700,7 +1310,7 @@
       "image": {
         "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/16042402_opened_mouth_and_dentists_hands_with_instruments.jpg",
         "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/16042402_opened_mouth_and_dentists_hands_with_instruments.webp",
-        "alt": "Orthodontic treatment overview with smiling patients in a bright clinic",
+        "alt": "Smiling patients receiving orthodontic care",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1721,68 +1331,24 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Early/interceptive treatment for children",
+      "title": "Early/interceptive treatment",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Early treatment, often called Phase One, typically begins around age eight to nine with follow-up Phase Two around age 11 and up. The goal is to guide jaw growth, correct bite issues early, and make room for permanent teeth so later treatment can be simpler and shorter."
-        }
-      ],
-      "accordion": [
-        {
-          "header": "When to start",
-          "paragraphs": [
-            {
-              "text": "The American Association of Orthodontists recommends an evaluation by age seven. We look for signs that early care could help, including crowding, crossbites, or a pronounced underbite."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/29222435_Cute_Latino_Girl_Smiling_with_Braces.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/29222435_Cute_Latino_Girl_Smiling_with_Braces.webp",
-            "alt": "Young patient receiving early orthodontic treatment",
-            "image_selection_hints": {
-              "context_category": "Kid"
-            }
-          }
+          "text": "A first orthodontic check around ages 7 to 9 helps us watch jaw growth and the way adult teeth come in. Early, targeted care can guide growth, create space for permanent teeth, and reduce the need for more complex treatment later."
         },
         {
-          "header": "What it corrects",
-          "paragraphs": [
-            {
-              "text": "Early care can guide jaw growth, address crossbites, severe crowding, protruding teeth and space issues, and reduce problems caused by prolonged thumb sucking."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/491614289_Model_of_jaw_with_braces_on_blue_background.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/491614289_Model_of_jaw_with_braces_on_blue_background.webp",
-            "alt": "Orthodontist consulting with a child and parent about early treatment",
-            "image_selection_hints": {
-              "context_category": "Initial Visit"
-            }
-          }
-        },
-        {
-          "header": "Benefits",
-          "paragraphs": [
-            {
-              "text": "Starting early can reduce the need for extractions or jaw surgery later, create space for permanent teeth, shorten future treatment time, and improve function like chewing and speech sooner."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/29456065_Hispanic_Father_Hugging_Kids.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/29456065_Hispanic_Father_Hugging_Kids.webp",
-            "alt": "Smiling child after early orthodontic treatment",
-            "image_selection_hints": {
-              "context_category": "Kid friendly"
-            }
-          }
+          "has_heading": false,
+          "heading": "",
+          "text": "We commonly treat crossbites, severe crowding or spacing, open bites, thumb‑sucking habits, and other issues that benefit from an early approach. When indicated, early treatment simplifies later care and can protect front teeth from injury."
         }
       ],
+      "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/49630490_Smiling_girl_holding_braces_for_teeth.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/49630490_Smiling_girl_holding_braces_for_teeth.webp",
-        "alt": "Child receiving orthodontic evaluation in a modern clinic",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/25182244_Pretty_girl_wearing_braces_smiling_cheerfully.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/25182244_Pretty_girl_wearing_braces_smiling_cheerfully.webp",
+        "alt": "Young patient receiving early orthodontic care",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1791,7 +1357,7 @@
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
-          "context_category": "Initial Visit"
+          "context_category": "Kid"
         }
       },
       "video": {
@@ -1800,14 +1366,14 @@
       },
       "buttons": [],
       "component_options": {
-        "hash": "early-interceptive-treatment",
+        "hash": "all-ages",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
       },
       "reverse": false,
       "has_buttons": false,
-      "has_accordion": true,
+      "has_accordion": false,
       "is_dynamic": false,
       "use_video": false,
       "large_image": false,
@@ -1821,52 +1387,24 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Adult orthodontic options — It’s never too late",
+      "title": "Adult orthodontics",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Many adults are excellent candidates for orthodontic care. Modern techniques offer discreet options that fit adult lifestyles while improving function, hygiene, and smile appearance."
-        }
-      ],
-      "accordion": [
-        {
-          "header": "Discreet options",
-          "paragraphs": [
-            {
-              "text": "We offer clear aligners like Invisalign<sup>®</sup>, ceramic (clear) braces, and lower-profile metal braces with smaller brackets. For minor tooth movement, retainers can sometimes correct small concerns."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/163056473_Glad_girl_using_orthodontic_device_for_adjusting_t.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/163056473_Glad_girl_using_orthodontic_device_for_adjusting_t.webp",
-            "alt": "Adult patient smiling after orthodontic treatment",
-            "image_selection_hints": {
-              "context_category": "Adult"
-            }
-          }
+          "text": "It’s never too late to straighten teeth. As long as gums and bone are healthy, adults can benefit from orthodontic treatment to improve alignment, function, and confidence."
         },
         {
-          "header": "Expectations and coordination",
-          "paragraphs": [
-            {
-              "text": "Adult treatment times vary and may require coordination with periodontal care, restorative work, or, rarely, surgery. We plan treatments to minimize disruption and protect oral health."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/606463645_Dentist_mirror_and_woman_check_smile_after_teeth_c.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/606463645_Dentist_mirror_and_woman_check_smile_after_teeth_c.webp",
-            "alt": "Orthodontist reviewing adult treatment options with patient",
-            "image_selection_hints": {
-              "context_category": "Adult"
-            }
-          }
+          "has_heading": false,
+          "heading": "",
+          "text": "We offer discreet options such as Invisalign<sup>®</sup> (first mention uses ®), Spark™, and Damon Clear ceramic braces. Mild to moderate adult cases often finish in 12 to 18 months with aligners; more complex cases may require fixed appliances or combined approaches."
         }
       ],
+      "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/211024714_Beautiful_Patient_Holding_Clear_Orthodontic_Aligne.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/211024714_Beautiful_Patient_Holding_Clear_Orthodontic_Aligne.webp",
-        "alt": "Adult patient consulting about orthodontic options",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/81317876_Braces_Teeth_Female_Smile.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/81317876_Braces_Teeth_Female_Smile.webp",
+        "alt": "Adult patient smiling during orthodontic treatment",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1891,7 +1429,7 @@
       },
       "reverse": true,
       "has_buttons": false,
-      "has_accordion": true,
+      "has_accordion": false,
       "is_dynamic": false,
       "use_video": false,
       "large_image": false,
@@ -1905,20 +1443,20 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Traditional (metal) and ceramic braces",
+      "title": "Braces",
       "paragraphs": [],
       "accordion": [
         {
           "header": "Traditional Metal Braces",
           "paragraphs": [
             {
-              "text": "Metal brackets bonded to the teeth use archwires to apply gentle, continuous force and move teeth into place. They are durable and effective for a wide range of problems."
+              "text": "Metal brackets bonded to teeth are connected with archwires; periodic adjustments move teeth into position. Metal braces are durable and a dependable option for many cases."
             }
           ],
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/81317876_Braces_Teeth_Female_Smile.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/81317876_Braces_Teeth_Female_Smile.webp",
-            "alt": "Patient with traditional metal braces",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/1434442_happy_teen_girl_smiling.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/1434442_happy_teen_girl_smiling.webp",
+            "alt": "Close-up of metal braces on teeth",
             "image_selection_hints": {
               "context_category": "Teen"
             }
@@ -1928,23 +1466,55 @@
           "header": "Ceramic Braces",
           "paragraphs": [
             {
-              "text": "Ceramic brackets blend with tooth color for a less noticeable option while providing effective tooth movement. They may require extra attention to hygiene and care."
+              "text": "Ceramic (tooth-colored) braces blend with enamel for a less noticeable look. Self-ligating systems such as Damon use a slide mechanism instead of elastic ties to reduce friction and can shorten treatment in many cases."
             }
           ],
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646541_Healthy_smile_woman_with_clear_brackets.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646541_Healthy_smile_woman_with_clear_brackets.webp",
-            "alt": "Close-up of ceramic braces on teeth",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/175198219_Woman_in_braces.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/175198219_Woman_in_braces.webp",
+            "alt": "Patient smiling with ceramic braces",
             "image_selection_hints": {
-              "context_category": "Teen"
+              "context_category": "Braces"
+            }
+          }
+        },
+        {
+          "header": "What to expect",
+          "paragraphs": [
+            {
+              "text": "Bonding appointment, short period of sensitivity, and regular adjustment visits every 6 to 10 weeks. Typical timelines range from under 12 months for minor cases to 18–36 months for more complex treatment, followed by a retention phase."
+            }
+          ],
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/437682950_Hispanic_teenager_girl_with_dental_braces_wearing.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/437682950_Hispanic_teenager_girl_with_dental_braces_wearing.webp",
+            "alt": "Braces appointment and adjustment",
+            "image_selection_hints": {
+              "context_category": "Braces"
+            }
+          }
+        },
+        {
+          "header": "Oral hygiene & care",
+          "paragraphs": [
+            {
+              "text": "You’ll need to modify diet, brush carefully around brackets, and maintain routine visits. After braces come off, retainers help preserve your results."
+            }
+          ],
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/48486569_teeth_with_braces.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/48486569_teeth_with_braces.webp",
+            "alt": "Cleaning teeth while in braces",
+            "image_selection_hints": {
+              "context_category": "Cleaning"
             }
           }
         }
       ],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/48486569_teeth_with_braces.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/48486569_teeth_with_braces.webp",
-        "alt": "Two smiling teens showing braces",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/141451082_Closeup_portrait_of_beautiful_woman_smiling_with_a.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/141451082_Closeup_portrait_of_beautiful_woman_smiling_with_a.webp",
+        "alt": "Two patients with braces smiling",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1953,7 +1523,7 @@
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
-          "context_category": "Treatments Hero"
+          "context_category": "Braces"
         }
       },
       "video": {
@@ -1983,24 +1553,24 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Invisalign<sup>®</sup> clear aligners",
+      "title": "Invisalign<sup>®</sup>",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Invisalign<sup>®</sup> uses advanced 3D imaging and a series of custom clear aligners to move teeth incrementally. Aligners are removable for eating and hygiene, and treatment is planned and previewed digitally."
+          "text": "Clear aligners are a series of custom trays worn about 20 to 22 hours per day, with each tray worn for one to two weeks to move teeth gradually. Digital 3D scans replace traditional impressions and guide predictable staging."
         },
         {
           "has_heading": false,
           "heading": "",
-          "text": "Candidates include people with crowding, spacing, and many bite issues. Appointments are often less frequent and the aligners use SmartTrack material and SmartForce features to maintain precise control of movement."
+          "text": "Aligners suit many mild to moderate spacing and crowding cases and are popular with adults who want a nearly invisible option. Final candidacy is determined during consultation."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/251234585_Portrait_of_beautiful_Asian_patient_woman_holding.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/251234585_Portrait_of_beautiful_Asian_patient_woman_holding.webp",
-        "alt": "Close-up of clear Invisalign aligner on teeth",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/211024714_Beautiful_Patient_Holding_Clear_Orthodontic_Aligne.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/211024714_Beautiful_Patient_Holding_Clear_Orthodontic_Aligne.webp",
+        "alt": "Clear aligner tray on a model of teeth",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -2009,7 +1579,7 @@
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
-          "context_category": "Teen"
+          "context_category": "Aligners"
         }
       },
       "video": {
@@ -2039,24 +1609,24 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Surgical orthodontics (jaw surgery)",
+      "title": "Surgical orthodontics",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Orthognathic surgery may be recommended for significant jaw discrepancies where tooth movement alone cannot achieve a stable, functional bite. Adults with skeletal malocclusions sometimes need combined surgical and orthodontic care."
+          "text": "Jaw surgery is considered when severe skeletal discrepancies cannot be corrected with braces or aligners alone. These cases often involve significant overbite, underbite, or facial asymmetry."
         },
         {
           "has_heading": false,
           "heading": "",
-          "text": "The process includes comprehensive evaluation and imaging, pre-surgical orthodontics to align the teeth, coordinated surgery with an oral and maxillofacial surgeon, and post-surgical orthodontics to finalize the bite."
+          "text": "Treatment is coordinated with an oral and maxillofacial surgeon: pre-surgical orthodontics to align teeth, the surgical procedure, then post-surgical orthodontics to fine-tune bite and occlusion. We discuss timeline and expectations at consultation."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/393180333_Dental_3d_scanner_monitor_in_the_dentists_office_S.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/393180333_Dental_3d_scanner_monitor_in_the_dentists_office_S.webp",
-        "alt": "Orthodontic team reviewing surgical planning images",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/135513837_Metal_brackets_-_tooth_aligners_on_a_model_jaw_whi.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/135513837_Metal_brackets_-_tooth_aligners_on_a_model_jaw_whi.webp",
+        "alt": "Orthodontic team consulting on surgical case",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -2095,24 +1665,24 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Retainers and maintaining results",
+      "title": "Retainers & aftercare",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "After active treatment, retainers preserve alignment. We provide removable Essix-style retainers, traditional acrylic-and-wire retainers, and fixed bonded retainers depending on your needs."
+          "text": "Retainers preserve your new alignment. Options include removable Essix-style retainers, Hawley retainers with acrylic and wire, and fixed bonded retainers on the lingual side."
         },
         {
           "has_heading": false,
           "heading": "",
-          "text": "Wear schedules vary by case: often full-time initially, then nightly. Good oral hygiene, regular dental cleanings, and following retainer instructions are essential to protect your investment."
+          "text": "Wear retainers full-time immediately after treatment, then taper to nightly wear as directed. Many patients are advised to wear a retainer several nights per week indefinitely. Clean removable retainers daily, avoid heat, and replace warped or broken retainers promptly."
         }
       ],
       "accordion": [],
       "image": {
         "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/62056177_Hand_holding_a_translucent_upper_essix_retainer.jpg",
         "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/62056177_Hand_holding_a_translucent_upper_essix_retainer.webp",
-        "alt": "Patient holding a clear retainer",
+        "alt": "Orthodontic retainer shown on a model",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -2121,7 +1691,7 @@
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
-          "context_category": "Restorative Treatments"
+          "context_category": "Retainers"
         }
       },
       "video": {
@@ -2151,44 +1721,33 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Advanced technology — 3D scanning and imaging",
+      "title": "Advanced technology",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "We use digital tools like iTero scanners, 3D treatment planning, and digital X-rays to improve precision and comfort. Digital scans replace messy impressions and help visualize your treatment outcome."
+          "text": "We use digital X-rays, 3D scanning, and advanced treatment‑planning software to improve diagnostic precision and patient comfort. Digital tools make impressions easier and treatment simulations more predictable."
+        },
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "These technologies often reduce in‑office time, strengthen communication about expected outcomes, and help us deliver efficient, patient-centered care."
         }
       ],
       "accordion": [
         {
-          "header": "iTero digital scanning",
+          "header": "3D scanning",
           "paragraphs": [
             {
-              "text": "Fast, radiation-free scans capture accurate 3D images for aligners and treatment planning."
+              "text": "Intraoral scanners capture accurate, comfortable digital impressions for aligners and appliances without traditional putty impressions."
             }
           ],
           "image": {
             "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/175504582_Dental_3d_scanner_and_monitor_in_the_dentists_offi.jpg",
             "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/175504582_Dental_3d_scanner_and_monitor_in_the_dentists_offi.webp",
-            "alt": "Digital intraoral scanner in use",
+            "alt": "Intraoral scanner capturing digital impressions",
             "image_selection_hints": {
               "context_category": "Technology"
-            }
-          }
-        },
-        {
-          "header": "3D treatment planning",
-          "paragraphs": [
-            {
-              "text": "Advanced software simulates each stage of tooth movement so you can preview results before treatment begins."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/167612220_Young_woman_patient_standing_in_x-ray_machine.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/167612220_Young_woman_patient_standing_in_x-ray_machine.webp",
-            "alt": "3D orthodontic treatment planning on a computer screen",
-            "image_selection_hints": {
-              "context_category": "Better Care"
             }
           }
         },
@@ -2196,13 +1755,29 @@
           "header": "Digital X-rays",
           "paragraphs": [
             {
-              "text": "High-resolution digital radiography and 3D imaging support accurate diagnosis while minimizing radiation exposure."
+              "text": "High-resolution digital radiography provides detailed images with less radiation than traditional film, aiding accurate diagnosis and treatment planning."
             }
           ],
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/1120060139_A_3D_dental_model_displayed_on_a_computer_screen_h.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/1120060139_A_3D_dental_model_displayed_on_a_computer_screen_h.webp",
-            "alt": "Digital X-ray equipment used in orthodontic diagnosis",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/136172958_Girl_taking_digital_3D_panoramic_dental_x-ray.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/136172958_Girl_taking_digital_3D_panoramic_dental_x-ray.webp",
+            "alt": "Digital X-ray equipment in orthodontic office",
+            "image_selection_hints": {
+              "context_category": "Digital X-Rays"
+            }
+          }
+        },
+        {
+          "header": "Digital treatment planning",
+          "paragraphs": [
+            {
+              "text": "Software that models staged tooth movements gives you a virtual preview of treatment and helps our team plan efficient, predictable steps."
+            }
+          ],
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/271991695_Young_woman_ready_to_computer_3d_tomography_of_tee.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/271991695_Young_woman_ready_to_computer_3d_tomography_of_tee.webp",
+            "alt": "3D treatment planning software on a computer",
             "image_selection_hints": {
               "context_category": "Technology"
             }
@@ -2210,9 +1785,9 @@
         }
       ],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/241877737_Dentist_with_young_woman_assistant_working_with_co.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/241877737_Dentist_with_young_woman_assistant_working_with_co.webp",
-        "alt": "Modern orthodontic technology and equipment in a treatment room",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/1120060139_A_3D_dental_model_displayed_on_a_computer_screen_h.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/1120060139_A_3D_dental_model_displayed_on_a_computer_screen_h.webp",
+        "alt": "Orthodontic office showing digital technology",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -2221,7 +1796,7 @@
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
-          "context_category": "Advanced Technology"
+          "context_category": "Technology"
         }
       },
       "video": {
@@ -2230,7 +1805,7 @@
       },
       "buttons": [],
       "component_options": {
-        "hash": "advanced-technology",
+        "hash": "technology",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
@@ -2280,19 +1855,17 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/316558318_young_beautiful_lady_with_blond_short_hair_sit_in.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/316558318_young_beautiful_lady_with_blond_short_hair_sit_in.webp",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/99326519_Professional_dentist_office.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/99326519_Professional_dentist_office.webp",
         "alt": "Enjoying time together",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "",
+        "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "New Patients Hero"
-        }
+        "image_selection_hints": null
       },
       "reversed": false,
       "centered": true,
@@ -2301,15 +1874,15 @@
     },
     {
       "seo": {
-        "page_title": "Treatments | TA Orthodontics",
-        "page_description": "Explore orthodontic treatments for all ages: early care, braces, Invisalign®, surgical planning, retainers and advanced digital technology.",
-        "page_keywords": "orthodontics, braces, Invisalign, early treatment, retainers, orthognathic surgery, iTero, clear aligners",
+        "page_title": "Treatments | Damon Orthodontics",
+        "page_description": "Comprehensive orthodontic care at Damon Orthodontics: early treatment, braces, Invisalign®, surgical care, retainers, and advanced digital planning.",
+        "page_keywords": "orthodontics, braces, Invisalign, Damon, early orthodontics, retainers, orthognathic surgery, digital scans",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "Treatments | TA Orthodontics",
-            "description": "Explore orthodontic treatments for all ages: early care, braces, Invisalign®, surgical planning, retainers and advanced digital technology.",
-            "image": "https://www.taortho.com/assets/images/treatment-01.jpg"
+            "title": "Treatments | Damon Orthodontics",
+            "description": "Comprehensive orthodontic care at Damon Orthodontics: early treatment, braces, Invisalign®, surgical care, retainers, and advanced digital planning.",
+            "image": "https://damon-orthodontics.com/wp-content/uploads/2025/12/damonhomepageimage-topaz-denoise-enhance-faceai.png"
           }
         }
       }
@@ -2335,9 +1908,9 @@
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/285911421_Client_of_private_dentistry_smiling_while_singing.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/285911421_Client_of_private_dentistry_smiling_while_singing.webp",
-        "alt": "Tyska Alexander Orthodontics Clarence office exterior and reception area",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/600329009_Man_making_an_appointment_with_medical_staffs_at_r.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/600329009_Man_making_an_appointment_with_medical_staffs_at_r.webp",
+        "alt": "Welcoming Damon Orthodontics reception area with smiling staff ready to assist patients",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -2345,9 +1918,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Contact Hero"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "src": "",
@@ -2384,15 +1955,15 @@
     },
     {
       "seo": {
-        "page_title": "Contact Tyska Alexander Orthodontics | Clarence & Tonawanda Orthodontist",
-        "page_description": "Contact Tyska Alexander Orthodontics in Clarence and Tonawanda. Call (716) 759-8323, email info@taortho.com, or request an appointment online.",
-        "page_keywords": "Tyska Alexander Orthodontics contact, Clarence orthodontist, Tonawanda orthodontist, appointment, patient forms",
+        "page_title": "Contact Damon Orthodontics | Spokane Orthodontist",
+        "page_description": "Contact Damon Orthodontics in Spokane for a complimentary consultation. Three local offices in Northside, Spokane Valley, and South Hill. Schedule online today.",
+        "page_keywords": "Damon Orthodontics contact, Spokane orthodontist, free consultation Spokane, Damon Orthodontics locations",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "Contact Tyska Alexander Orthodontics | Clarence & Tonawanda Orthodontist",
-            "description": "Contact Tyska Alexander Orthodontics in Clarence and Tonawanda. Call (716) 759-8323, email info@taortho.com, or request an appointment online.",
-            "image": "https://www.taortho.com/assets/uploads/images/clarence-office.jpg"
+            "title": "Contact Damon Orthodontics | Spokane Orthodontist",
+            "description": "Contact Damon Orthodontics in Spokane for a complimentary consultation. Three local offices in Northside, Spokane Valley, and South Hill. Schedule online today.",
+            "image": "https://damon-orthodontics.com/wp-content/uploads/2025/12/damonhomepageimage-topaz-denoise-enhance-faceai.png"
           }
         }
       }
@@ -2418,9 +1989,9 @@
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/479238532_Man_Dental_Teeth_Question_Mark.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/479238532_Man_Dental_Teeth_Question_Mark.webp",
-        "alt": "Patient speaking with front desk about appointments in a bright orthodontic office",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/158720629_Dentist_female_posing_at_consultation.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/158720629_Dentist_female_posing_at_consultation.webp",
+        "alt": "Patient smiling with orthodontic braces in our Emeryville office",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -2428,9 +1999,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "FAQ Hero"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "src": "",
@@ -2446,305 +2015,15 @@
         {
           "has_heading": false,
           "heading": "",
-          "text": "Find answers to common questions about orthodontic treatments, Invisalign<sup>®</sup>, appointment scheduling, patient forms, and payment options at Tyska Alexander Orthodontics."
+          "text": "Find clear, practical answers to common questions about treatments, scheduling, insurance, and how to care for braces, aligners, and retainers at Damon Orthodontics."
         }
       ],
       "accordion": [
         {
-          "header": "What treatment options do you offer?",
+          "header": "Which treatment is right for me?",
           "paragraphs": [
             {
-              "text": "We offer a full range of orthodontic options including traditional metal braces, ceramic (clear) braces, Invisalign<sup>®</sup> clear aligners, retainers for minor movement, palatal expanders and other appliances. Your doctor will review options and recommend the best approach for your needs."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646554_Womans_smile_with_clear_dental_braces_on_teeth.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646554_Womans_smile_with_clear_dental_braces_on_teeth.webp",
-            "alt": "Orthodontic consultation and treatment planning in a modern office",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Treatments Hero"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "How does Invisalign work and how long does it take?",
-          "paragraphs": [
-            {
-              "text": "Invisalign<sup>®</sup> uses a series of clear, removable aligner trays made from SmartTrack material. A custom digital plan maps tooth movement; aligners are usually worn about 20–22 hours per day and checkups are typically every six weeks. Treatment length varies by case."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/343321244_Young_beautiful_brunette_woman_holding_dental_alig.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/343321244_Young_beautiful_brunette_woman_holding_dental_alig.webp",
-            "alt": "Clear aligners on a model showing staged tooth movement",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Treatments Hero"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "How long will orthodontic treatment take?",
-          "paragraphs": [
-            {
-              "text": "Treatment times vary by age, method and case severity. Typical ranges are about 1–3 years; early (interceptive) treatment for children can shorten overall time. Your doctor will estimate your treatment length during the consultation."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/305918963_Smiling_happy_woman_mouth_with_tongue_and_braces_O.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/305918963_Smiling_happy_woman_mouth_with_tongue_and_braces_O.webp",
-            "alt": "Orthodontic treatment timeline explanation during a consultation",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Treatments Hero"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "Do you offer surgical orthodontics if needed?",
-          "paragraphs": [
-            {
-              "text": "For adults with severe jaw discrepancies we coordinate orthognathic (jaw) surgery with an oral/maxillofacial surgeon. Braces are used before and after surgery to finalize the bite; we will discuss risks, recovery time and expected steps if surgery is recommended."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://www.taortho.com/assets/uploads/images/appointment-request.jpg",
-            "webp": "",
-            "alt": "Orthodontist reviewing surgical treatment coordination with a patient",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "All Ages"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "What do I need to know about visiting the dentist while in orthodontic care?",
-          "paragraphs": [
-            {
-              "text": "Continue visiting your family dentist every six months for cleanings and routine care while in orthodontic treatment. If extra dental work is needed, our offices will coordinate timing and care with your family dentist."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/974226401_Clinic_patient_hands_writing_medical_documents_in.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/974226401_Clinic_patient_hands_writing_medical_documents_in.webp",
-            "alt": "Orthodontic team coordinating care with a family dentist",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Experienced"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "How often will I have appointments during treatment?",
-          "paragraphs": [
-            {
-              "text": "Routine orthodontic follow-ups are usually scheduled about every 4–8 weeks, depending on the appliance and stage of treatment."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://www.taortho.com/assets/uploads/images/appointment-request.jpg",
-            "webp": "",
-            "alt": "Patient returning for a routine orthodontic adjustment",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Initial Visit"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "What are the basic care instructions (brushing, flossing, appliance care)?",
-          "paragraphs": [
-            {
-              "text": "Brush and floss carefully after meals. For braces use floss threaders or orthodontic floss; consider a water flosser if needed. For loose wires or irritation use orthodontic wax or rinse with warm salt water and contact the office for advice. For aligners, wear them 20–22 hours/day and remove only for eating and oral hygiene."
-            }
-          ],
-          "has_media": true,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/232435916_Electronic_medical_record_with_patient_data_and_he.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/232435916_Electronic_medical_record_with_patient_data_and_he.webp",
-            "alt": "Brushing and flossing with braces",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Gentle"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "What happens after my initial consultation?",
-          "paragraphs": [
-            {
-              "text": "After your consultation we’ll schedule your first appliance placement visit. The placement appointment typically takes about an hour. The doctor and team will be available to ensure your comfort."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/486483782_Close_up_of_dentist_hand_using_dental_forceps_whil.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/486483782_Close_up_of_dentist_hand_using_dental_forceps_whil.webp",
-            "alt": "Orthodontic team preparing a patient for appliance placement",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Initial Visit"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "What payment and insurance options do you accept?",
-          "paragraphs": [
-            {
-              "text": "Treatment cost depends on your individualized plan. The practice accepts most major credit cards and many insurance plans, and offers in‑house financing and low monthly payment plans. Office staff will help with insurance claims and paperwork."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/624176181_Choose_the_right_insurance_Learn_more_about_insura.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/624176181_Choose_the_right_insurance_Learn_more_about_insura.webp",
-            "alt": "Front desk staff helping a patient with insurance and payment options",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Flexible Payments"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "How can I schedule an appointment?",
-          "paragraphs": [
-            {
-              "text": "You can call either office or request an appointment online. Phone (Clarence office): (716) 759-8323. Phone (Tonawanda office): (716) 875-0405. Appointment request (online form): https://www.taortho.com/appointment-request."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/459389900_Young_smiling_happy_couple_two_friends_family_man.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/459389900_Young_smiling_happy_couple_two_friends_family_man.webp",
-            "alt": "Patient calling to schedule an orthodontic appointment",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Contact Hero"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "Where can I fill out new‑patient forms?",
-          "paragraphs": [
-            {
-              "text": "Patients can fill forms electronically here: https://patient.sesamecommunications.com/mandtortho/index.html. Printable PDFs (child and adult health history) are also available:\nChild Patient Form (PDF): https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/files/health%20history(2).pdf\nAdult Patient Form (PDF): https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/files/health%20history(3).pdf"
+              "text": "The best option depends on your orthodontic needs and goals. Damon Orthodontics offers the Damon System braces (including Damon Clear) and clear aligners such as Invisalign<sup>®</sup> and Spark. Complex cases often need braces; mild-to-moderate concerns can frequently be treated with clear aligners. Schedule a consultation so the doctors can evaluate your smile and recommend the ideal approach."
             }
           ],
           "has_media": false,
@@ -2752,7 +2031,7 @@
           "image": {
             "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/123911299_Male_hiker_holding_a_map_in_forest.jpg",
             "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/123911299_Male_hiker_holding_a_map_in_forest.webp",
-            "alt": "Patient completing new patient forms on a tablet",
+            "alt": "Happy Family Portrait",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -2760,9 +2039,196 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Initial Visit"
+            "image_selection_hints": null
+          },
+          "video": {
+            "type": "embedded",
+            "src": ""
+          }
+        },
+        {
+          "header": "How long does each treatment take?",
+          "paragraphs": [
+            {
+              "text": "Treatment time varies by case and method. Clear aligner treatment often takes 12–18 months for mild-to-moderate cases, while traditional braces commonly require 18–36 months depending on complexity. Damon System treatments can sometimes reduce overall time compared with older bracket systems. Your personalized timeline will be provided at the initial visit."
             }
+          ],
+          "has_media": false,
+          "media_type": "image",
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/265958166_Group_of_medical_doctors_at_clinic_Unity_concept.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/265958166_Group_of_medical_doctors_at_clinic_Unity_concept.webp",
+            "alt": "Collaborative Team Spirit Moment",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          },
+          "video": {
+            "type": "embedded",
+            "src": ""
+          }
+        },
+        {
+          "header": "Do braces or aligners hurt?",
+          "paragraphs": [
+            {
+              "text": "Some initial soreness or tenderness is normal after placement or adjustments. Modern systems like Damon typically produce less discomfort than older braces; clear aligners usually cause milder pressure-related soreness. Manage discomfort with over-the-counter pain relievers, orthodontic wax for irritated cheeks, cold compresses, saltwater rinses, and a soft diet for a day or two after changes."
+            }
+          ],
+          "has_media": false,
+          "media_type": "image",
+          "image": {
+            "src": "https://d25xczrsvvsqdg.cloudfront.net/cueorthodontics-contact-hero.jpg",
+            "webp": "https://d25xczrsvvsqdg.cloudfront.net/cueorthodontics-contact-hero.webp",
+            "alt": "Couple Enjoying Time Together",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          },
+          "video": {
+            "type": "embedded",
+            "src": ""
+          }
+        },
+        {
+          "header": "What should I do if an aligner is lost or a bracket breaks?",
+          "paragraphs": [
+            {
+              "text": "Contact the office right away. For a lost aligner you may be asked to wear the previous tray or move to the next set depending on your treatment stage. For broken brackets or wires, protect soft tissues with orthodontic wax and call to schedule a repair. We will give specific instructions based on the issue and urgency."
+            }
+          ],
+          "has_media": false,
+          "media_type": "image",
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/277600288_Team_of_medical_workers_in_hospital_Unity_concept.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/277600288_Team_of_medical_workers_in_hospital_Unity_concept.webp",
+            "alt": "Smiling Man Working at Desk",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          },
+          "video": {
+            "type": "embedded",
+            "src": ""
+          }
+        },
+        {
+          "header": "Will my insurance cover treatment and what payment options are available?",
+          "paragraphs": [
+            {
+              "text": "Many dental insurance plans provide some orthodontic benefits. Damon Orthodontics works with most major carriers and can accept direct carrier payments. We offer interest-free monthly payment plans and family discounts to make treatment manageable. For a full estimate bring insurance information to your complimentary consultation."
+            }
+          ],
+          "has_media": false,
+          "media_type": "image",
+          "image": {
+            "src": "https://d25xczrsvvsqdg.cloudfront.net/cueorthodontics-home-spotlight.jpg",
+            "webp": "https://d25xczrsvvsqdg.cloudfront.net/cueorthodontics-home-spotlight.webp",
+            "alt": "Mother and Daughter Smiling Together",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          },
+          "video": {
+            "type": "embedded",
+            "src": ""
+          }
+        },
+        {
+          "header": "How and when can I schedule an appointment?",
+          "paragraphs": [
+            {
+              "text": "You do not need a referral — patients may schedule directly. Routine adjustment frequency depends on treatment type: Damon System patients often return every 6–10 weeks, traditional braces may require more frequent visits, and aligner check-ins follow your individualized plan. Use our online request page or call the office to find a convenient time."
+            }
+          ],
+          "has_media": false,
+          "media_type": "image",
+          "image": {
+            "src": "https://d25xczrsvvsqdg.cloudfront.net/cueorthodontics-about-hero.jpg",
+            "webp": "https://d25xczrsvvsqdg.cloudfront.net/cueorthodontics-about-hero.webp",
+            "alt": "Happy Family Portrait",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          },
+          "video": {
+            "type": "embedded",
+            "src": ""
+          }
+        },
+        {
+          "header": "How do I care for braces, aligners, and retainers?",
+          "paragraphs": [
+            {
+              "text": "Braces: avoid hard, crunchy, and sticky foods; brush carefully around brackets and use interdental brushes or floss threaders as needed. Aligners: remove for eating, clean trays daily, and wear them about 20–22 hours per day. Retainers: rinse after meals, brush gently, keep them in a protective case, and replace lost or damaged retainers promptly. Proper care helps treatment progress and protects your investment."
+            }
+          ],
+          "has_media": false,
+          "media_type": "image",
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/343321244_Young_beautiful_brunette_woman_holding_dental_alig.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/343321244_Young_beautiful_brunette_woman_holding_dental_alig.webp",
+            "alt": "Couple Enjoying Time Together",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          },
+          "video": {
+            "type": "embedded",
+            "src": ""
+          }
+        },
+        {
+          "header": "Can adults get orthodontic treatment or start treatment during pregnancy?",
+          "paragraphs": [
+            {
+              "text": "Yes, adults commonly receive orthodontic care with braces or clear aligners. Beginning or continuing treatment during pregnancy is possible; discuss your plan with your orthodontist and your obstetric provider so we can coordinate care safely and comfortably."
+            }
+          ],
+          "has_media": false,
+          "media_type": "image",
+          "image": {
+            "src": "https://d25xczrsvvsqdg.cloudfront.net/cueorthodontics-about-community.jpg",
+            "webp": "https://d25xczrsvvsqdg.cloudfront.net/cueorthodontics-about-community.webp",
+            "alt": "Collaborative Team Spirit Moment",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
           },
           "video": {
             "type": "embedded",
@@ -2808,19 +2274,17 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/347651414_Modern_family_visiting_doctor_in_hospital.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/347651414_Modern_family_visiting_doctor_in_hospital.webp",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/186439743_dental_care_savings_concept_beautiful_smiling_woma.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/186439743_dental_care_savings_concept_beautiful_smiling_woma.webp",
         "alt": "Enjoying time together",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "",
+        "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "New Patients Hero"
-        }
+        "image_selection_hints": null
       },
       "reversed": false,
       "centered": true,
@@ -2829,15 +2293,15 @@
     },
     {
       "seo": {
-        "page_title": "FAQ | Tyska Alexander Orthodontics",
-        "page_description": "Answers to common questions about orthodontic treatments, scheduling, forms, and payment options at Tyska Alexander Orthodontics.",
-        "page_keywords": "orthodontics, braces, Invisalign, FAQ, Clarence, Tonawanda, patient forms",
+        "page_title": "FAQ | Damon Orthodontics",
+        "page_description": "Answers to common questions about Damon Orthodontics' treatments, scheduling, insurance, and caring for braces, aligners, and retainers.",
+        "page_keywords": "Damon Orthodontics, orthodontics, braces, Damon System, Invisalign, FAQ, retainers",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "FAQ | Tyska Alexander Orthodontics",
-            "description": "Answers to common questions about orthodontic treatments, scheduling, forms, and payment options at Tyska Alexander Orthodontics.",
-            "image": "https://www.taortho.com/assets/uploads/images/appointment-request.jpg"
+            "title": "FAQ | Damon Orthodontics",
+            "description": "Answers to common questions about Damon Orthodontics' treatments, scheduling, insurance, and caring for braces, aligners, and retainers.",
+            "image": "https://d25xczrsvvsqdg.cloudfront.net/andersonbracesmn-contact-hero.jpg"
           }
         }
       }
