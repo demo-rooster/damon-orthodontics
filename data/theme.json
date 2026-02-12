@@ -4,69 +4,69 @@
       {
         "label": "primary",
         "color": {
-          "red": 74,
-          "green": 122,
-          "blue": 155,
+          "red": 19,
+          "green": 60,
+          "blue": 78,
           "alpha": 1
         },
-        "hex": "#4a7a9b",
+        "hex": "#133C4E",
         "accessibility": {
-          "luminance": 0.17,
-          "luminancePercent": "17%",
+          "luminance": 0.04,
+          "luminancePercent": "4%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 4.6,
-          "wcagRating": "AA"
+          "contrastRatio": 11.77,
+          "wcagRating": "AAA"
         }
       },
       {
         "label": "secondary",
         "color": {
-          "red": 61,
-          "green": 100,
-          "blue": 128,
+          "red": 19,
+          "green": 82,
+          "blue": 110,
           "alpha": 1
         },
-        "hex": "#3d6480",
+        "hex": "#13526e",
         "accessibility": {
-          "luminance": 0.12,
-          "luminancePercent": "12%",
+          "luminance": 0.07,
+          "luminancePercent": "7%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 5.9,
-          "wcagRating": "AA"
+          "contrastRatio": 8.54,
+          "wcagRating": "AAA"
         }
       },
       {
         "label": "accent",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 27,
+          "green": 133,
+          "blue": 181,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#1B85B5",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
-          "wcagRating": "AAA"
+          "luminance": 0.2,
+          "luminancePercent": "20%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 5.07,
+          "wcagRating": "AA"
         }
       },
       {
         "label": "text",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 27,
+          "green": 133,
+          "blue": 181,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#1B85B5",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
-          "wcagRating": "AAA"
+          "luminance": 0.2,
+          "luminancePercent": "20%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 5.07,
+          "wcagRating": "AA"
         }
       },
       {
@@ -77,7 +77,7 @@
           "blue": 255,
           "alpha": 1
         },
-        "hex": "#FFFFFF",
+        "hex": "#ffffff",
         "accessibility": {
           "luminance": 1,
           "luminancePercent": "100%",
@@ -123,94 +123,94 @@
       {
         "label": "topbar-dark",
         "color": {
-          "red": 61,
-          "green": 100,
-          "blue": 128,
+          "red": 19,
+          "green": 60,
+          "blue": 78,
           "alpha": 1
         },
-        "hex": "#3d6480",
+        "hex": "#133C4E",
         "accessibility": {
-          "luminance": 0.12,
-          "luminancePercent": "12%",
+          "luminance": 0.04,
+          "luminancePercent": "4%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 5.9,
-          "wcagRating": "AA"
+          "contrastRatio": 11.77,
+          "wcagRating": "AAA"
         }
       }
     ],
     "typography": [
       {
         "label": "font",
-        "font": "'Verdana', helvetica, arial, sans-serif"
+        "font": "'sans-serif', helvetica, arial, sans-serif"
       },
       {
         "label": "font-title",
-        "font": "'Montserrat', sans-serif"
+        "font": "'Poppins', sans-serif"
       }
     ],
-    "logo_url": "https://www.taortho.com/assets/images/logo.png",
+    "logo_url": "https://damon-orthodontics.com/wp-content/uploads/2019/04/damonorthologo.png",
     "logo_config": {
       "type": "url",
       "variant": "light",
-      "url": "https://www.taortho.com/assets/images/logo.png"
+      "url": "https://damon-orthodontics.com/wp-content/uploads/2019/04/damonorthologo.png"
     },
     "logo_colors": {
       "colors": [
         {
-          "hex": "#3f9ff4",
-          "luminosity_percent": 32,
-          "count": 3
+          "hex": "#1e84b4",
+          "luminosity_percent": 20,
+          "count": 14
         },
         {
-          "hex": "#3c9bf0",
-          "luminosity_percent": 31,
-          "count": 3
+          "hex": "#133c4e",
+          "luminosity_percent": 4,
+          "count": 13
         },
         {
-          "hex": "#3c9bf1",
-          "luminosity_percent": 31,
-          "count": 3
+          "hex": "#208dc2",
+          "luminosity_percent": 23,
+          "count": 11
         },
         {
-          "hex": "#3e9bf0",
-          "luminosity_percent": 31,
-          "count": 2
+          "hex": "#1e83b4",
+          "luminosity_percent": 20,
+          "count": 11
         },
         {
-          "hex": "#3d9df3",
-          "luminosity_percent": 32,
-          "count": 2
+          "hex": "#1d83b4",
+          "luminosity_percent": 20,
+          "count": 10
         },
         {
-          "hex": "#090707",
-          "luminosity_percent": 0,
-          "count": 2
+          "hex": "#1d84b5",
+          "luminosity_percent": 20,
+          "count": 7
         },
         {
-          "hex": "#070507",
-          "luminosity_percent": 0,
-          "count": 2
+          "hex": "#133b4d",
+          "luminosity_percent": 4,
+          "count": 7
         },
         {
-          "hex": "#3da1f8",
-          "luminosity_percent": 33,
-          "count": 2
+          "hex": "#1d85b5",
+          "luminosity_percent": 20,
+          "count": 5
         },
         {
-          "hex": "#3d9ff2",
-          "luminosity_percent": 32,
-          "count": 1
+          "hex": "#208bbf",
+          "luminosity_percent": 23,
+          "count": 5
         },
         {
-          "hex": "#3e9ef5",
-          "luminosity_percent": 32,
-          "count": 1
+          "hex": "#208dc1",
+          "luminosity_percent": 23,
+          "count": 5
         }
       ],
-      "dominant_color": "#3f9ff4",
-      "avg_luminosity": 25.6,
+      "dominant_color": "#1e84b4",
+      "avg_luminosity": 17.1,
       "is_light": false
     },
-    "favicon_url": "https://www.taortho.com/assets/images/icons/favicon.png"
+    "favicon_url": "https://damon-orthodontics.com/wp-content/uploads/2025/10/cropped-damonorthologo-32x32.png"
   }
 }
