@@ -1,77 +1,79 @@
 {
   "enable_development_mode": false,
-  "company_name": "Tyska Alexander Orthodontics",
-  "domain": "taortho.com",
-  "email": "info@mandtortho.com",
+  "company_name": "Damon Orthodontics",
+  "domain": "damon-orthodontics.com",
+  "email": "info@damon-orthodontics.com",
   "phone": {
-    "number": "(716) 759-8323",
-    "href": "tel:+17167598323",
-    "aria": "7 1 6, 7 5 9, 8 3 2 3"
+    "number": "(509) 484-8000",
+    "href": "tel:+15094848000",
+    "aria": "5 0 9, 4 8 4, 8 0 0 0"
   },
   "location": [
     {
-      "title": "Clarence Office",
+      "title": "Northside Spokane",
       "address": {
-        "street": "9650 Main Street",
+        "street": "4407 N Division St #722",
         "suite": "",
-        "city_state": "Clarence, NY 14031",
+        "city_state": "Spokane, WA 99207",
         "coordinates": {
-          "longitude": "-78.6314355",
-          "latitude": "42.9736638"
+          "longitude": "",
+          "latitude": ""
         }
       },
       "phone": {
-        "number": "(716) 759-8323",
-        "href": "tel:+17167598323"
+        "number": "(509) 484-8000",
+        "href": "tel:+15094848000"
       },
-      "email": "info@mandtortho.com",
-      "hours": [
-        {
-          "day": "Monday",
-          "time": "8:30 am \t6:30 pm"
-        },
-        {
-          "day": "Tuesday",
-          "time": "8:30 am \t6:30 pm"
-        },
-        {
-          "day": "Wednesday",
-          "time": "8:00 am \t11:30 am"
-        },
-        {
-          "day": "Thursday",
-          "time": "8:00 am \t6:00 pm"
-        },
-        {
-          "day": "Friday",
-          "time": "8:00 am \t11:30 am"
-        }
-      ],
+      "email": "info@damon-orthodontics.com",
+      "hours": [],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
+        "href": "https://www.google.com/maps/search/?api=1&query=4407+N+Division+St+%23722+Spokane+WA+99207",
         "label": "Get Directions"
       },
       "special_note": ""
     },
     {
-      "title": "Tonawanda Office",
+      "title": "Spokane Valley",
       "address": {
-        "street": "1077 Delaware Rd",
+        "street": "12406 E Mission Ave",
         "suite": "",
-        "city_state": "Tonawanda, NY 14223",
+        "city_state": "Spokane Valley, WA 99216",
         "coordinates": {
-          "longitude": "-78.8730228",
-          "latitude": "42.9901241"
+          "longitude": "-117.2382438",
+          "latitude": "47.6715593"
         }
       },
       "phone": {
-        "number": "(716) 875-0405",
-        "href": "tel:+17168750405"
+        "number": "(509) 924-9860",
+        "href": "tel:+15099249860"
       },
-      "email": "info@mandtortho.com",
+      "email": "info@damon-orthodontics.com",
       "hours": [],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd+Tonawanda+NY+14223",
+        "href": "https://www.google.com/maps/place/Damon+Orthodontics/@47.6986872,-117.7170334,11z/data=!4m10!1m2!2m1!1sSpokane+VALLEY+Office+damon+orthodontist!3m6!1s0x549e200e1431b90d:0x55e05d8ec526ac59!8m2!3d47.671378!4d-117.2383919!15sCihTcG9rYW5lIFZBTExFWSBPZmZpY2UgZGFtb24gb3J0aG9kb250aXN0WioiKHNwb2thbmUgdmFsbGV5IG9mZmljZSBkYW1vbiBvcnRob2RvbnRpc3SSAQxvcnRob2RvbnRpc3SaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUktiMkYxUlVkUkVBRaoBcBABKh0iGW9mZmljZSBkYW1vbiBvcnRob2RvbnRpc3QoADIfEAEiG4tIqJDGlJSxBULm4CoxxhDYRTt9-xJqeDwHMTIsEAIiKHNwb2thbmUgdmFsbGV5IG9mZmljZSBkYW1vbiBvcnRob2RvbnRpc3TgAQD6AQQIUhBD!16s%2Fg%2F1vlqpy02?entry=ttu&g_ep=EgoyMDI1MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "label": "Get Directions"
+      },
+      "special_note": ""
+    },
+    {
+      "title": "South Hill Spokane",
+      "address": {
+        "street": "418 E 30th Ave",
+        "suite": "",
+        "city_state": "Spokane, WA 99203",
+        "coordinates": {
+          "longitude": "-117.4037514",
+          "latitude": "47.6271754"
+        }
+      },
+      "phone": {
+        "number": "(509) 448-2600",
+        "href": "tel:+15094482600"
+      },
+      "email": "info@damon-orthodontics.com",
+      "hours": [],
+      "directions_link": {
+        "href": "https://www.google.com/maps/search/?api=1&query=418+E+30th+Ave+Spokane+WA+99203",
         "label": "Get Directions"
       },
       "special_note": ""
@@ -94,28 +96,28 @@
     "content_alignment": "right",
     "links": [
       {
-        "icon": "tooth-two-v1",
-        "text": "9650 Main Street, Clarence, NY 14031",
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "View 9650 Main Street, Clarence, NY 14031 on google maps",
+        "icon": "tooth-two-v2",
+        "text": "4407 N Division St #722, Spokane, WA 99207",
+        "href": "https://www.google.com/maps/search/?api=1&query=4407+N+Division+St+%23722+Spokane+WA+99207",
+        "label": "View 4407 N Division St #722, Spokane, WA 99207 on google maps",
         "new_window": true
       },
       {
         "icon": "phone",
-        "text": "(716) 759-8323",
-        "href": "tel:+17167598323",
-        "label": "Call 7 1 6. 7 5 9. 8 3 2 3.",
+        "text": "(509) 484-8000",
+        "href": "tel:+15094848000",
+        "label": "Call (509) 484-8000",
         "new_window": false
       }
     ],
     "announcement": {
       "icon": "tooth-two-v2",
-      "label": "",
-      "text": "",
-      "mobile_text": "",
+      "label": "Welcome to Damon Orthodontics",
+      "text": "Multi-generational orthodontic care in Spokane with modern, airway-focused treatment. Call to schedule a complimentary consultation.",
+      "mobile_text": "Call to schedule a free consult",
       "modal": {
-        "title": "",
-        "text": ""
+        "title": "Our Promise",
+        "text": "Damon Orthodontics combines a family-invented legacy with modern, patient-first care. We use Damon System braces, clear aligners and digital scanning to deliver comfortable, efficient treatment for patients of all ages."
       }
     }
   },
@@ -150,20 +152,28 @@
   "footer": {
     "social_media": [
       {
-        "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
-        "icon": "youtube"
+        "href": "/#",
+        "icon": "facebook"
+      },
+      {
+        "href": "/#",
+        "icon": "instagram"
+      },
+      {
+        "href": "/#",
+        "icon": "twitter"
       }
     ],
     "add_border": false
   },
   "enable_popup": false,
   "popup": {
-    "title": "",
+    "title": "Welcome to Damon Orthodontics",
     "text": "",
     "image": {
-      "src": "",
+      "src": "https://damon-orthodontics.com/wp-content/uploads/2025/12/damonhomepageimage-topaz-denoise-enhance-faceai.png",
       "webp": "",
-      "alt": "",
+      "alt": "Damon Orthodontics - Spokane team",
       "aria_hidden": false,
       "bgColor": "",
       "imageBackground": false,
@@ -171,7 +181,9 @@
       "objectPosition": "",
       "forceAlt": "",
       "loading_mask": "",
-      "image_selection_hints": null
+      "image_selection_hints": {
+        "context_category": "About Hero"
+      }
     }
   }
 }
