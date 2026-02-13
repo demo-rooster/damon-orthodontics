@@ -10,10 +10,10 @@
   },
   "location": [
     {
-      "title": "Northside Spokane",
+      "title": "North Spokane",
       "address": {
-        "street": "4407 N Division St #722",
-        "suite": "",
+        "street": "4407 N Division St",
+        "suite": "#722",
         "city_state": "Spokane, WA 99207",
         "coordinates": {
           "longitude": "",
@@ -24,10 +24,10 @@
         "number": "(509) 484-8000",
         "href": "tel:+15094848000"
       },
-      "email": "info@damon-orthodontics.com",
+      "email": "",
       "hours": [],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=4407+N+Division+St+%23722+Spokane+WA+99207",
+        "href": "https://www.google.com/maps/search/?api=1&query=4407+N+Division+St+%23722,+Spokane,+WA+99207",
         "label": "Get Directions"
       },
       "special_note": ""
@@ -47,16 +47,16 @@
         "number": "(509) 924-9860",
         "href": "tel:+15099249860"
       },
-      "email": "info@damon-orthodontics.com",
+      "email": "",
       "hours": [],
       "directions_link": {
-        "href": "https://www.google.com/maps/place/Damon+Orthodontics/@47.6986872,-117.7170334,11z/data=!4m10!1m2!2m1!1sSpokane+VALLEY+Office+damon+orthodontist!3m6!1s0x549e200e1431b90d:0x55e05d8ec526ac59!8m2!3d47.671378!4d-117.2383919!15sCihTcG9rYW5lIFZBTExFWSBPZmZpY2UgZGFtb24gb3J0aG9kb250aXN0WioiKHNwb2thbmUgdmFsbGV5IG9mZmljZSBkYW1vbiBvcnRob2RvbnRpc3SSAQxvcnRob2RvbnRpc3SaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUktiMkYxUlVkUkVBRaoBcBABKh0iGW9mZmljZSBkYW1vbiBvcnRob2RvbnRpc3QoADIfEAEiG4tIqJDGlJSxBULm4CoxxhDYRTt9-xJqeDwHMTIsEAIiKHNwb2thbmUgdmFsbGV5IG9mZmljZSBkYW1vbiBvcnRob2RvbnRpc3TgAQD6AQQIUhBD!16s%2Fg%2F1vlqpy02?entry=ttu&g_ep=EgoyMDI1MTAwNy4wIKXMDSoASAFQAw%3D%3D",
+        "href": "https://www.google.com/maps/search/?api=1&query=12406+E+Mission+Ave,+Spokane+Valley,+WA+99216",
         "label": "Get Directions"
       },
       "special_note": ""
     },
     {
-      "title": "South Hill Spokane",
+      "title": "South Hill",
       "address": {
         "street": "418 E 30th Ave",
         "suite": "",
@@ -70,10 +70,10 @@
         "number": "(509) 448-2600",
         "href": "tel:+15094482600"
       },
-      "email": "info@damon-orthodontics.com",
+      "email": "",
       "hours": [],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=418+E+30th+Ave+Spokane+WA+99203",
+        "href": "https://www.google.com/maps/search/?api=1&query=418+E+30th+Ave,+Spokane,+WA+99203",
         "label": "Get Directions"
       },
       "special_note": ""
@@ -98,7 +98,7 @@
       {
         "icon": "tooth-two-v2",
         "text": "4407 N Division St #722, Spokane, WA 99207",
-        "href": "https://www.google.com/maps/search/?api=1&query=4407+N+Division+St+%23722+Spokane+WA+99207",
+        "href": "https://www.google.com/maps/search/?api=1&query=4407+N+Division+St+%23722,+Spokane,+WA+99207",
         "label": "View 4407 N Division St #722, Spokane, WA 99207 on google maps",
         "new_window": true
       },
@@ -112,12 +112,12 @@
     ],
     "announcement": {
       "icon": "tooth-two-v2",
-      "label": "Welcome to Damon Orthodontics",
-      "text": "Multi-generational orthodontic care in Spokane with modern, airway-focused treatment. Call to schedule a complimentary consultation.",
-      "mobile_text": "Call to schedule a free consult",
+      "label": "",
+      "text": "",
+      "mobile_text": "",
       "modal": {
-        "title": "Our Promise",
-        "text": "Damon Orthodontics combines a family-invented legacy with modern, patient-first care. We use Damon System braces, clear aligners and digital scanning to deliver comfortable, efficient treatment for patients of all ages."
+        "title": "",
+        "text": ""
       }
     }
   },
@@ -150,30 +150,17 @@
     "href": ""
   },
   "footer": {
-    "social_media": [
-      {
-        "href": "/#",
-        "icon": "facebook"
-      },
-      {
-        "href": "/#",
-        "icon": "instagram"
-      },
-      {
-        "href": "/#",
-        "icon": "twitter"
-      }
-    ],
+    "social_media": [],
     "add_border": false
   },
   "enable_popup": false,
   "popup": {
-    "title": "Welcome to Damon Orthodontics",
-    "text": "",
+    "title": "Schedule a Free Consultation",
+    "text": "Start your smile journey with a complimentary consultation and personalized treatment plan.",
     "image": {
-      "src": "https://damon-orthodontics.com/wp-content/uploads/2025/12/damonhomepageimage-topaz-denoise-enhance-faceai.png",
+      "src": "https://damon-orthodontics.com/wp-content/uploads/2019/04/damonorthologo.png",
       "webp": "",
-      "alt": "Damon Orthodontics - Spokane team",
+      "alt": "Damon Orthodontics logo",
       "aria_hidden": false,
       "bgColor": "",
       "imageBackground": false,
@@ -182,7 +169,7 @@
       "forceAlt": "",
       "loading_mask": "",
       "image_selection_hints": {
-        "context_category": "About Hero"
+        "context_category": "New Patients Hero"
       }
     }
   }
